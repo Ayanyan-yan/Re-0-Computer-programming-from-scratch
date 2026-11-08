@@ -4,12 +4,6 @@
 
 **拒绝生搬硬套，用“人话”打通你的计算机底层任督二脉。**
 
-[![Language](https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge&logo=c)](https://github.com/)
-[![IDE](https://img.shields.io/badge/IDE-CLion-brightgreen.svg?style=for-the-badge&logo=clion)](https://github.com/)
-[![Build](https://img.shields.io/badge/Build-CMake-red.svg?style=for-the-badge&logo=cmake)](https://github.com/)
-[![Vibe Coding](https://img.shields.io/badge/Supported-Vibe_Coding-purple.svg?style=for-the-badge)](https://github.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 </div>
 
 ---
